@@ -63,3 +63,19 @@ h3{
 .responsive{
     position: relative;
 }
+
+.videos{
+    margin-top: 2px;
+    margin-left: 25%;
+}
+
+.Bilder{
+    margin-top: 2px;
+    margin-left: 25%;
+    width: 800px;
+}
+
+.ueberschrift{
+    margin-left: 46%;
+    color: black;
+}
